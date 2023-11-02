@@ -2,6 +2,8 @@
 
 ## Overview
 This project demonstrates a simple vehicle detection system using OpenCV, which can be used to detect vehicles in a video stream. It utilizes the Haar Cascade Classifier for car detection.
+<br>
+<img src="https://github.com/AbhinavBoss/Vehicle-Detection/blob/main/Screenshot%202023-11-02%20232715.png">
 
 ## Prerequisites
 - Python
